@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on stuff and such
-- 🌱 I’m currently learning all the things
-- 💬 Ask me about AtlSecCon, theHASK, BSides Halifax or DC902
-- 📫 How to reach me: internets
+- 🔭 I’m currently working on https://icns.ca
+- 🌱 I’m currently learning bitcoin, cloud & devops
+- 💬 Ask me about Cyber Security, Risk or bitcoin
+- 📫 How to reach me: twitter
 - ⚡ Fun fact: I'm me, sometimes
 
