@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [icns.ca](https://icns.ca) & [AtlSecCon](https://atlseccon.com)
+- 🔭 I’m currently working on [icns.ca](https://icns.ca)
 - 🌱 I’m currently learning bitcoin, cloud & devops
 - 📚 I'm currently [reading](https://www.goodreads.com/user/show/72735131-nickg902)
 - 💬 Ask me about Technology, Cyber Security, Risk Management or bitcoin
-- 📫 How to reach me: [twitter](https://twitter.com/nickg902)
+- 📫 How to reach me: carrier pigeon
 - ⚡ Fun fact: I'm me, sometimes
 
