@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nick
+### Hi there 👋 I'm nickname
 
 <!--
 **nickg902/nickg902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
