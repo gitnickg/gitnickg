@@ -1,7 +1,7 @@
-### Hi there 👋 I'm nickname
+### Hi there 👋 I'm nick
 
 <!--
-**nickg902/nickg902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gitnickg/gitnickg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
