@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [icns.ca](https://icns.ca)
-- 🌱 I’m currently learning bitcoin, cloud & devops
+- 🌱 I’m currently learning bitcoin, cloud, devops, ai and risk
 - 📚 I'm currently [reading](https://www.goodreads.com/user/show/72735131-nickname)
 - 💬 Ask me about Technology, Cyber Security, Risk Management or bitcoin
 - 📫 How to reach me: carrier pigeon
