@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [icns.ca](https://icns.ca)
-- 🌱 I’m currently learning bitcoin, cloud, devops, ai and risk
-- 📚 I'm currently [reading](https://www.goodreads.com/user/show/72735131-nickname)
-- 💬 Ask me about Technology, Cyber Security, Risk Management or bitcoin
-- 📫 How to reach me: carrier pigeon
+- 🔭 I’m on [icns.ca](https://icns.ca)
+- 🌱 I’m learning bitcoin, cloud, devops, ai, cyber security and grc
+- 📚 I'm [reading](https://www.goodreads.com/gitnickg)
+- 💬 Ask me about Technology, Cyber Security, GRC or bitcoin
+- 📫 How to reach me: carrier pigeon or [X](https://x.com/gitnickg)
 - ⚡ Fun fact: I'm me, sometimes
 
