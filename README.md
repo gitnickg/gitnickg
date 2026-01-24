@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m on [icns.ca](https://icns.ca)
 - 🌱 I’m learning bitcoin, cloud, devops, ai, cybersecurity and grc
 - 📚 I'm [reading](https://www.goodreads.com/gitnickg)
-- 💬 Ask me about Technology, Cyber Security, GRC or bitcoin
+- 💬 Ask me about Technology, Cybersecurity, GRC or bitcoin
 - 📫 How to reach me: carrier pigeon or [X](https://x.com/gitnickg)
 - ⚡ Fun fact: I'm me, sometimes
 
